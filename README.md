@@ -12,7 +12,7 @@ Tools & Technologies Used:
 
 Data analysis: Python (Pandas, Matplotlib, etc.)
 Data visualization: Tableau/Matplotlib/Seaborn
-Database management: SQL
+Database management: CSV
 Reporting and documentation: Jupyter Notebooks/GitHub
 This project demonstrates my skills in data-driven decision-making and my ability to address real-world business challenges.
 
